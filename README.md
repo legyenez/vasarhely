@@ -1,3 +1,3 @@
 # vasarhely
-VÃ¡sÃ¡rhelyen kÃ©szÃ¼lt 2020.08.25-Ã©n
-tesztel‚s 
+Vásárhelyen készült 2020.08.25-én
+tesztelés
